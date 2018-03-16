@@ -52,7 +52,6 @@ public class CollectorsExample {
                                 )
                         );
         System.out.println(map);
-
     }
 
 
